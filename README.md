@@ -1,4 +1,7 @@
 # EX-NO-3-IMPLEMENTATION-OF-HILL-CIPHER
+
+## NAME: ARAVINDAN T
+## REG NO: 2305001003
  
 ## AIM
 To write a C program to implement the hill cipher substitution techniques.
@@ -25,7 +28,7 @@ STEP-4: Multiply the two matrices to obtain the cipher text of length three.
 STEP-5: Combine all these groups to get the complete cipher text.
 
 ## PROGRAM 
-```
+```c
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
@@ -96,6 +99,8 @@ int main() {
 
 ```
 ## OUTPUT
+
+<img width="318" height="162" alt="image" src="https://github.com/user-attachments/assets/76b407e0-c695-48c5-a5eb-96a43ba07fc5" />
 
 ## RESULT
 hence the experiment has been executed successfully
